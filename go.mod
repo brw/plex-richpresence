@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/Arno500/go-plex-client v1.1.12
 	github.com/aws/aws-sdk-go v1.50.23
-	github.com/brw/rp v0.3.2
+	github.com/brw/rp v0.3.3
 	github.com/cubiest/jibberjabber v1.0.1
 	github.com/emersion/go-autostart v0.0.0-20210130080809-00ed301c8e9a
 	github.com/gen2brain/beeep v0.0.0-20240112042604-c7bb2cd88fea
@@ -54,3 +54,7 @@ require (
 )
 
 // replace github.com/Arno500/go-plex-client => C:\Users\arnod\go\src\github.com\Arno500\go-plex-client
+
+// replace github.com/brw/rp => /home/bas/git/rp
+
+// replace github.com/Arno500/go-plex-client => /home/bas/git/go-plex-client
